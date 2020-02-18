@@ -51,15 +51,11 @@
 // Congratulations 1_M_l337! !!, your score is 9001.
 // ```
 
-let constestant = (`1_M_1337!` );
-let score = (`9001.`);
+// let constestant = (`1_M_1337!` );
+// let score = (`9001.`);
 
 
- console.log(`Congratulations ${constestant}!!!!, your score is ${score}`)
-
-
-
-
+//  console.log(`Congratulations ${constestant}!!!!, your score is ${score}`)
 
 
 
@@ -84,3 +80,32 @@ let score = (`9001.`);
 // Home/Memphis Grizzlies: 102
 // Visitors/GS Warriors: 23
 // ```
+
+let home_team =prompt ("Name of their home team ");
+    console.log (`Name on your home team ${home_team}`)
+
+if (home_team == true);
+
+{
+    
+
+let visiting_team =prompt ("Name of the Visiting team");
+    console.log (`Name on your home team ${visiting_team}`);
+
+    if (visitning_team == true);
+
+
+}
+
+let  score1 =prompt ("Enter score of home team");
+    console.log (`The score of ${home_team} is ${score1}`);
+    {
+        let score2 =prompt ("Enter score of Visiting team");
+        console.log (`The score of ${visiting_team} is ${score2}`);
+    }
+    if (home_team <= visiting_team == true);
+    {
+        console.log (`${home_team} has won the game`)
+    }
+
+
