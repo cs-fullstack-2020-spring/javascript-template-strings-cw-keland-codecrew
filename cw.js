@@ -92,10 +92,10 @@ if (home_team == true);
 let visiting_team =prompt ("Name of the Visiting team");
     console.log (`Name on your home team ${visiting_team}`);
 
-    if (visiting_team == true);
+    if (visiting_team == true);{
 
 
-}
+
 
 let  score1 =prompt ("Enter score of home team");
     console.log (`The score of ${home_team} is ${score1}`);
